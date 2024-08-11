@@ -1,0 +1,1 @@
+we can change Colors.tsx to Colors.android.tsx and Colors.ios.tsx and write different code for ios and android in it, like setting the borderWidth 2 in android file and not setting anything in the ios file
